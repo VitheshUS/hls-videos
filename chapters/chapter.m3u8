@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=500000
-https://raw.githubusercontent.com/VitheshUS/hls-videos/main/chapters/chapter1/chapter1.m3u8
+chapter1/chapter1.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=500000
-https://raw.githubusercontent.com/VitheshUS/hls-videos/main/chapters/chapter2/chapter2.m3u8
+chapter2/chapter2.m3u8
